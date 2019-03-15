@@ -17,3 +17,4 @@ print np.random.normal(50,5,1000)
 
 
 
+print "hello!"
